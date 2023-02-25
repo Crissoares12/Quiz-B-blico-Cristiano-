@@ -1,4 +1,3 @@
-# Quiz-B-blico-Cristiano-
 var game = {
 
 initialize: function(){
@@ -143,4 +142,7 @@ game.checkWin();
 
 game.update();
 
-game.draw();
+game.draw();# Quiz-B-blico-Cristiano-
+var game = {
+
+
